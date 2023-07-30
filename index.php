@@ -181,17 +181,13 @@
                         <div class="card-header">
                             <h4>Reports
                             <div class="d-flex justify-content-end ms-2">
-                                <a href="item-add.php" class="btn btn-primary btn-sm">Invoice Report</a>
-                                <a href="item-add.php" class="btn btn-primary btn-sm ms-3">Invoice Item Report</a>
-                                <a href="item-add.php" class="btn btn-primary btn-sm ms-3">Item Report</a>
+                                <a href="" class="btn btn-primary btn-sm">Invoice Report</a>
+                                <a href="" class="btn btn-primary btn-sm ms-3">Invoice Item Report</a>
+                                <a href="" class="btn btn-primary btn-sm ms-3">Item Report</a>
                             </div>
                             </h4>
                         </div>
-                        <!-- <div class="card-body">
-                            <a href="item-add.php" class="btn btn-primary btn-sm">Invoice Report</a>
-                            <a href="item-add.php" class="btn btn-primary btn-sm">Invoice Item Report</a>
-                            <a href="item-add.php" class="btn btn-primary btn-sm">Item Report</a>
-                        </div> -->
+                      
                     </div>
                 </div>
             </div>
