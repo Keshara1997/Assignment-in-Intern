@@ -181,9 +181,9 @@
                         <div class="card-header">
                             <h4>Reports
                             <div class="d-flex justify-content-end ms-2">
-                                <a href="" class="btn btn-primary btn-sm">Invoice Report</a>
-                                <a href="" class="btn btn-primary btn-sm ms-3">Invoice Item Report</a>
-                                <a href="" class="btn btn-primary btn-sm ms-3">Item Report</a>
+                                <a href="invoiceReport.php" class="btn btn-primary btn-sm">Invoice Report</a>
+                                <a href="invoiceItemReport.php" class="btn btn-primary btn-sm ms-3">Invoice Item Report</a>
+                                <a href="itemReport.php" class="btn btn-primary btn-sm ms-3">Item Report</a>
                             </div>
                             </h4>
                         </div>
